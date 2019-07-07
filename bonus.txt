@@ -1,0 +1,17 @@
+Extra Credit Features:
+
+- Night Mode
+
+	Users can change nightmode and lightmode in run time, graphics window adapts itself with minimum number of draws.
+
+- Player Turn and Notifications
+
+	Both text and graphics windows shows whose turn and notifications when its needed.
+
+- Smart Pointers and Vectors
+
+	Throughout the project vectors and smart pointers have been used to deal with memory allocation.
+
+- Bomb Block
+
+	The Bomb Block appears as a special block when the player clears 3 rows, allowing them to clear 3 columns around where they drop the “bomb”.
